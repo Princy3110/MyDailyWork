@@ -1,2 +1,0 @@
-# MyDailyWork
-New repo
